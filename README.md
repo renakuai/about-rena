@@ -4,7 +4,7 @@
 # Current coding projects:
 Working my way through The Odin Project
 
-# Current design status:
+# Design stuff:
 Incoming Sr. Product Designer for the Trailhead Platform at Salesforce -- working to democratize education for all
 
 Past roles:
