@@ -4,10 +4,10 @@
 # Current coding projects:
 Working my way through The Odin Project
 
-# Design stuff:
+# Current design things:
 Incoming Sr. Product Designer for the Trailhead Platform at Salesforce -- working to democratize education for all
 
-Past roles:
+# Past roles:
 - Sr. Product Designer, Iterable
 - Sr. Product Designer, Gatsby
 - Sr. Product Designer, 15Five
