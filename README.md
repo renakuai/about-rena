@@ -8,9 +8,5 @@ Working my way through The Odin Project
 Incoming Sr. Product Designer for the Trailhead Platform at Salesforce -- working to democratize education for all
 
 # Past roles:
-- Sr. Product Designer, Iterable
-- Sr. Product Designer, Gatsby
-- Sr. Product Designer, 15Five
-- Sr. Product Designer, Cloudbees
-- Product Designer, StatMuse
+- Sr. Product Designer @ Iterable, Gatsby, 15Five, Cloudbees, and StatMuse
 - Was once a Product Manager wayyyyy back in the day
