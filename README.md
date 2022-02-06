@@ -1,5 +1,5 @@
 <h2>Welcome to my Github!</h2>
-👋 Hi! My name is Rena and I'm a Product Designer on a journey to becoming a UX Engineer. I'm passionate about creating approachable user experiences and merging the gap between design and code. 
+Hi! I'm an end-to-end Product Designer who is passionate about bridging the gap between design and code and creating experiences that make a positive impact on people. I love learning and making stuff, which has recently led me down the path of diving deep into the world of Front-End coding and *potentially* becoming a design technologist or UX Engineer.
 
 <h3> Current coding projects </h3>
 Working my way through The Odin Project
