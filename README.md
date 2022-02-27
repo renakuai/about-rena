@@ -5,7 +5,7 @@ Hi! I'm an end-to-end Product Designer who is passionate about bridging the gap 
 Working my way through The Odin Project
 
 <h3> Current design things </h3>
-Sr. Product Designer for the Trailhead Platform at Salesforce -- working to democratize education for all
+Sr. Product Designer on the Trailhead Platform team @ Salesforce
 
 <h3> Other things </h3>
 <ul>
