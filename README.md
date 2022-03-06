@@ -4,7 +4,7 @@ Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, w
 <h3> Current coding projects </h3>
 3/2/22 - Started the Fullstack JS track on The Odin Project, which will include advanced HTML, CSS, React and some back-end pieces including Node, Express, & MongoDB.
 <br><br>
-3/1/22 - Wrapped up the Foundations course on The Odin Project, which included vanilla Git, HTML, CSS (basic selectors, flexbox, etc.), and JS. Final project for this section was the Calculator project.
+3/1/22 - Wrapped up the Foundations course on The Odin Project, which included vanilla Git, HTML, CSS, and JS. Final project for this section was the Calculator project.
 
 <h3> Current design things </h3>
 Sr. Product Designer @ Salesforce designing experiences that make analytics + data more meaningful for Sales teams.
