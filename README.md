@@ -3,7 +3,7 @@ Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, w
 
 <h3> Current coding projects </h3>
 3/2/22 - Started the Fullstack JS track on The Odin Project, which will include advanced HTML, CSS, React, NodeJS, and some back-end pieces including Express + MongoDB.
-<p>
+<br><br>
 3/1/22 - Wrapped up the Foundations course on The Odin Project, which included vanilla Git, HTML, CSS (basic selectors, flexbox, etc.), and JS. Final project for this section was the Calculator project.
 
 <h3> Current design things </h3>
