@@ -1,5 +1,5 @@
 <h2>Welcome to my Github!</h2>
-Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, which has recently led me down the path of diving deep into the world of front-end and becoming a design technologist or UX Engineer.
+Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, which has recently led me down the path of diving deep into the world of front-end and becoming a Design Technologist or UX Engineer.
 
 <h3> Current coding projects </h3>
 Just wrapped up intermediate HTML, CSS, and vanilla JS on the Odin Project. Now moving onto frameworks including React and Node. 
