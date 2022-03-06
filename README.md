@@ -7,7 +7,7 @@ Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, w
 3/1/22 - Wrapped up the Foundations course on The Odin Project, which included learning the Git workflow, and vanilla HTML, CSS, and JS. Final project for this section was the Calculator project.
 
 <h3> Current design things </h3>
-Sr. Product Designer @ Salesforce designing experiences that make analytics + data more meaningful for Sales teams.
+Sr. Product Designer @ Salesforce making analytics + data more meaningful and actionable for Sales teams.
 
 <h3> Other things </h3>
 <ul>
