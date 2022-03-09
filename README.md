@@ -1,4 +1,4 @@
-<h2>👋 Hi, I'm Rena!</h2>
+<h2>👋 Hi, my name's Rena!</h2>
 Hi! I'm an end-to-end Product Designer who is loves learning and making stuff, which has recently led me down the path of diving deep into the world of front-end and becoming a Design Technologist or UX Engineer.
 
 <h3>What I use to make things:</h3>
