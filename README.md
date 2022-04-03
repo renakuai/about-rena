@@ -1,7 +1,7 @@
 <h2>👋 Hi, my name's Rena!</h2>
 I'm a multi-faceted Product Designer who loves building and designing products from 0 to the 🌛. Over the last year or so, I've become passionate about closing the gap between design and code and making my Figma files come to life. 
 
-<br><br>These realizations have led me down the path of eventually becoming a Design Technologist / Front End Engineer. Currently, I've been diving deep into the nuances of JavaScript, React, and CSS and practicing my learnings by building fun web apps along the way. 
+<br>These realizations have led me down the path of eventually becoming a Design Technologist / Front End Engineer. Currently, I've been diving deep into the nuances of JavaScript, React, and CSS and practicing my learnings by building fun web apps along the way. 
 
 <h3>What I use to make things:</h3>
 <div style="display:inline">
