@@ -4,7 +4,7 @@ I'm a multi-faceted Product Designer who loves building and designing products f
 <br>These realizations have led me down the path of eventually becoming a Design Technologist / Front End Engineer. Currently, I've been diving deep into the nuances of JavaScript, React, and CSS and practicing my learnings by building fun web apps along the way. 
 
 <h3>What I use to make things:</h3>
-<b>Frontend</b>
+<header>FRONTEND</header>
 <div style="display:inline">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -14,7 +14,7 @@ I'm a multi-faceted Product Designer who loves building and designing products f
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
-<b>Backend</b>
+<header>BACKEND</header>
 <div style="display:inline">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
