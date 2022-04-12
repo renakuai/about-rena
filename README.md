@@ -3,7 +3,7 @@ I'm a multi-faceted Product Designer who loves building and designing products f
 
 <br>These realizations have led me down the path of eventually becoming a Design Technologist / Front End Engineer. Currently, I've been diving deep into the nuances of JavaScript, React, and CSS and practicing my learnings by building fun web apps along the way. 
 
-<h3>What I use to make things:</h3>
+<h3>My Toolbox</h3>
 <header><b>Frontend</b></header>
 <div style="display:inline">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
