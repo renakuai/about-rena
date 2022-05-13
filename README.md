@@ -1,7 +1,7 @@
 <h2>👋 Hi, my name's Rena!</h2>
-I'm a multi-faceted Product Designer who loves building and designing products from 0 to the 🌛. Over the last year or so, I've become passionate about closing the gap between design and code and making my Figma files come to life. 
+I'm a multi-faceted creator who loves working with data and building products from 0 to the 🌛 .
 
-<br>These realizations have led me down the path of eventually becoming a Design Technologist / Front End Engineer. Currently, I've been diving deep into the nuances of JavaScript, React, and CSS and practicing my learnings by building fun web apps along the way. 
+<br>Over the last year or so, I've become passionate about closing the gap between design and code and making my Figma files come to life. This realization has led me towards becoming a Design Technologist / UX Engineer. I'm currently deep diving into the world of React, full-stack Javascript (MongoDB, Node, Express), CSS, and D3.
 
 <h3>My Toolbox</h3>
 <header><b>Frontend</b></header>
