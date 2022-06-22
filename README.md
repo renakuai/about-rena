@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Rena!</h2>
 I'm a multi-faceted creator who is passionate about closing the gap between design + code, analytics, and taking products from 0 to the🌛.
 
-<br><br>I am currently working towards becoming a Design Technologist / UX Engineer / Frontend Engineer so that I can use both my design + coding skill sets. I completed The Odin Project's full-stack JavaScript curriculum and am now deep diving on my own into the world of React, full-stack Javascript, design systems + components, and using D3 to create data visualizations.
+<br>I am currently working towards becoming a Design Technologist / UX Engineer / Frontend Engineer so that I can use both my design + coding skill sets. I completed The Odin Project's full-stack JavaScript curriculum and am now deep diving on my own into the world of React, full-stack Javascript, design systems + components, and using D3 to create data visualizations.
 
 ----
 
