@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Rena!</h2>
-I'm a Design Technologist who is passionate about closing the gap between design + code, design systems, and, simply, building great products. I also have a background in Product Design and Product Management, which allows me to easily understand different perspectives that come into play during the product development process.
+I'm a Designer who codes (or what they call a Design Technologist / UX Engineer), ex-Product Manager, and lifelong learner. Passionate about design systems, accessibility, data visualizations, and, simply, building great products.
 
 <h3>My Toolbox</h3>
 <header><b>Frontend</b></header>
